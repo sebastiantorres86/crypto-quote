@@ -1,0 +1,31 @@
+body {
+  background-color: #ecfcff;
+  font-family: "Poppins", sans-serif;
+  color: #3e64ff;
+}
+.error {
+  background-color: #b7322c;
+  padding: 1rem;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+.result {
+  color: #5edfff;
+}
+.result h2 {
+  font-weight: bold;
+  color: #5edfff;
+}
+.result p {
+  font-size: 18px !important;
+}
+.result p span {
+  font-weight: bold;
+}
+p.price {
+  font-size: 30px !important;
+}
+
